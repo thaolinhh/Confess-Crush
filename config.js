@@ -1,10 +1,7 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'àn nhong',
+    introDesc: `vào đây thì đừng hòng thoát ra à há ha ha ha`,
     btnIntro: '^^HiHi^^',
     title: 'thích Thảo Linh lắm phải honggg',
     desc: 'vớ vẩn không trả lời là coi như muốn cưới tôi về đấy nha?? ',
